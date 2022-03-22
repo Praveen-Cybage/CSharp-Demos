@@ -1,0 +1,14 @@
+C:\Users\praveenja\source\repos\LinQ_Workshop\LinQ_Workshop\bin\Debug\netcoreapp3.1\LinQ_Workshop.exe
+C:\Users\praveenja\source\repos\LinQ_Workshop\LinQ_Workshop\bin\Debug\netcoreapp3.1\LinQ_Workshop.deps.json
+C:\Users\praveenja\source\repos\LinQ_Workshop\LinQ_Workshop\bin\Debug\netcoreapp3.1\LinQ_Workshop.runtimeconfig.json
+C:\Users\praveenja\source\repos\LinQ_Workshop\LinQ_Workshop\bin\Debug\netcoreapp3.1\LinQ_Workshop.runtimeconfig.dev.json
+C:\Users\praveenja\source\repos\LinQ_Workshop\LinQ_Workshop\bin\Debug\netcoreapp3.1\LinQ_Workshop.dll
+C:\Users\praveenja\source\repos\LinQ_Workshop\LinQ_Workshop\bin\Debug\netcoreapp3.1\LinQ_Workshop.pdb
+C:\Users\praveenja\source\repos\LinQ_Workshop\LinQ_Workshop\obj\Debug\netcoreapp3.1\LinQ_Workshop.csproj.AssemblyReference.cache
+C:\Users\praveenja\source\repos\LinQ_Workshop\LinQ_Workshop\obj\Debug\netcoreapp3.1\LinQ_Workshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\praveenja\source\repos\LinQ_Workshop\LinQ_Workshop\obj\Debug\netcoreapp3.1\LinQ_Workshop.AssemblyInfoInputs.cache
+C:\Users\praveenja\source\repos\LinQ_Workshop\LinQ_Workshop\obj\Debug\netcoreapp3.1\LinQ_Workshop.AssemblyInfo.cs
+C:\Users\praveenja\source\repos\LinQ_Workshop\LinQ_Workshop\obj\Debug\netcoreapp3.1\LinQ_Workshop.csproj.CoreCompileInputs.cache
+C:\Users\praveenja\source\repos\LinQ_Workshop\LinQ_Workshop\obj\Debug\netcoreapp3.1\LinQ_Workshop.dll
+C:\Users\praveenja\source\repos\LinQ_Workshop\LinQ_Workshop\obj\Debug\netcoreapp3.1\LinQ_Workshop.pdb
+C:\Users\praveenja\source\repos\LinQ_Workshop\LinQ_Workshop\obj\Debug\netcoreapp3.1\LinQ_Workshop.genruntimeconfig.cache
